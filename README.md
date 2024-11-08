@@ -1,0 +1,2 @@
+# funkcijas
+funkcijas veidošana
